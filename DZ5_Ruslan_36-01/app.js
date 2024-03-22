@@ -51,7 +51,6 @@ const courses = [
         ]
     }
 ];
-
 function calculateAverage(grades) {
     const sum = grades.reduce((acc, curr) => acc + curr, 0);
     return sum / grades.length;

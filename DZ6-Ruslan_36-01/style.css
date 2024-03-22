@@ -1,0 +1,68 @@
+.counter-container {
+    margin-top: 50px;
+    text-align: center;
+}
+input {
+    font-size: 40px;
+    width: 200px;
+    text-align: center;
+}
+.buttons {
+    margin-top: 50px;
+}
+.buttons {
+    font-size: 10px;
+    margin: 10px;
+    padding: 20px;
+    cursor: pointer;
+}
+.green {
+    color: green;
+}
+.gray {
+    color: darkgray;
+}
+.red {
+    color: red;
+}
+
+
+
+
+/*.traffic-light {*/
+/*    width: 100px;*/
+/*    height: 300px;*/
+/*    background-color: #333;*/
+/*    border-radius: 10px;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: space-around;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.light {*/
+/*    width: 80px;*/
+/*    height: 80px;*/
+/*    border-radius: 50%;*/
+/*    background-color: rgba(153, 153, 153, 0.95);*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*.red {*/
+/*    background-color: red;*/
+/*}*/
+
+/*.yellow {*/
+/*    background-color: yellow;*/
+/*}*/
+
+/*.green {*/
+/*    background-color: green;*/
+/*}*/
+
+/*.message {*/
+/*    text-align: center;*/
+/*    margin-top: 20px;*/
+/*}*/
+
+
